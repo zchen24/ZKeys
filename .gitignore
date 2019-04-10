@@ -1,0 +1,8 @@
+*.STL
+*.stl
+*.zip
+*.err
+*.step
+.vs
+CherryMX
+ZKeysGerber
